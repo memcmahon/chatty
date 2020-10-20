@@ -1,24 +1,7 @@
-# README
+# Chatty
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple rails starter for playing around with ActionCable.
 
-Things you may want to cover:
+Clone, or recreate:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+`rails new chatapp --database=postgresql --skip-spring --skip-turbolinks --skip-test`
